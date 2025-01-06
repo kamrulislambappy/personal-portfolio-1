@@ -7,7 +7,7 @@
     "build": "npx tailwindcss -i ./src/css/input.css -o ./src/css/output.css -w"
   },
   "keywords": [],
-  "author": "",
+  "author": "BAPPY AL HASAN",
   "license": "ISC",
   "description": "",
   "devDependencies": {
