@@ -1,0 +1,17 @@
+{
+  // theme
+  "workbench.colorTheme": "Learn with Sumit - Peace of the eye",
+
+  // folder icon theme
+  "workbench.iconTheme": "vscode-icons",
+
+  // tailwindcss config
+  "css.validate": false,
+  "tailwindCSS.emmetCompletions": true,
+
+  // prettier config
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
