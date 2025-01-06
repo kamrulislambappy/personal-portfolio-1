@@ -1,4 +1,6 @@
 # Personal Portfolio Website
+This web page, designed using the highly popular Tailwind CSS, offers a modern design and enhanced performance. As a personal portfolio, it boasts a clean and attractive layout, enhancing user experience and ensuring responsiveness.
+
 ## Installation
 To run the code for this project, follow these steps:
 1. #### Clone the repository
